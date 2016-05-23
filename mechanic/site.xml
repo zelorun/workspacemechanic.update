@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Workspace Mechanic Update Site (stable)" url="https://github.com/zelorun/workspacemechanic">
+   <description name="Workspace Mechanic Update Site (stable)" url="https://github.com/zelorun/workspacemechanic.update/tree/master/mechanic">
       Update site for stable releases of the Workspace Mechanic for Eclipse
    </description>
    <feature url="features/com.google.eclipse.mechanic_0.0.0.jar" id="com.google.eclipse.mechanic" version="0.0.0">
